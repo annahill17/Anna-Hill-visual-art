@@ -1,0 +1,16 @@
+.footer{
+        background-color: cadetblue;
+        font-style: normal;
+        border-style: solid;
+}
+.header{
+    background-color: blue;
+    border-style: solid;
+}
+.page{
+    background-color:#FFB6C1;
+    
+    }
+.picture{
+    text-align:center;
+}
